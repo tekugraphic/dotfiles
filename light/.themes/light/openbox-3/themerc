@@ -1,0 +1,64 @@
+border.width: 2
+
+!! window
+
+window.client.padding.width: 0
+window.client.padding.height: 0
+window.handle.width: 0
+
+padding.width: 5
+padding.height: 5
+
+window.active.border.color: #eff2f3 
+window.inactive.border.color: #eff2f3
+window.active.client.color: #eff2f3
+window.inactive.client.color: #eff2f3
+window.active.label.text.color: #222f3e
+window.inactive.label.text.color: #222f3e
+
+window.active.title.bg: flat solid
+window.active.title.bg.color: #eff2f3
+window.active.label.bg: flat solid
+window.active.label.bg.color: #eff2f3
+window.inactive.title.bg: flat solid
+window.inactive.title.bg.color: #eff2f3
+window.inactive.label.bg: flat solid
+window.inactive.label.bg.color: #eff2f3
+
+!! menu
+
+menu.border.width: 8
+menu.separator.width: 1
+menu.separator.padding.width: 10
+menu.separator.padding.height: 2
+menu.overlap.x: 0
+menu.overlap.y: 0
+menu.border.color: #eff2f3
+menu.separator.color: #eff2f3
+menu.title.text.color: #222f3e
+menu.items.text.color: #222f3e
+menu.items.disabled.text.color: #222f3e
+menu.items.active.text.color: #222f3e
+menu.items.active.disabled.text.color: #222f3e
+
+menu.items.bg: flat solid
+menu.items.bg.color: #eff2f3
+menu.items.active.bg: flat solid
+menu.items.active.bg.color: #d7d9da
+menu.title.bg: flat solid
+menu.title.bg.color: #eff2f3
+menu.title.text.justify: center
+
+!! osd
+
+osd.border.width: 1
+osd.border.color: #eff2f3
+osd.label.text.color: #222f3e
+osd.bg: flat solid
+osd.bg.color: #eff2f3
+osd.label.bg: flat solid
+osd.label.bg.color: #eff2f3
+osd.hilight.bg: flat solid
+osd.hilight.bg.color: #eff2f3
+osd.unhilight.bg: flat solid
+osd.unhilight.bg.color: #eff2f3
