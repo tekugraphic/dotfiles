@@ -30,17 +30,17 @@
 		<menu id="37" label="System">
 			<item label="obconf">
 				<action name="Execute">
-					<execute>command</execute>
+					<execute>obconf</execute>
 				</action>
 			</item>
 			<item label="obmenu">
 				<action name="Execute">
-					<execute>command</execute>
+					<execute>obmenu</execute>
 				</action>
 			</item>
-			<item label="lxappearace">
+			<item label="lxappearance">
 				<action name="Execute">
-					<execute>command</execute>
+					<execute>lxappearance</execute>
 				</action>
 			</item>
 			<item label="lxrandr">
@@ -48,9 +48,9 @@
 					<execute>lxrandr</execute>
 				</action>
 			</item>
-			<item label="tint2">
+			<item label="tint2conf">
 				<action name="Execute">
-					<execute>tint2</execute>
+					<execute>tint2conf</execute>
 				</action>
 			</item>
 			<item label="top">
@@ -60,7 +60,7 @@
 			</item>
 		</menu>
 		<separator/>
-		<menu id="40" label="OpenBox">
+		<menu id="40" label="Openbox">
 			<item label="Reconfigure">
 				<action name="Reconfigure"/>
 			</item>
