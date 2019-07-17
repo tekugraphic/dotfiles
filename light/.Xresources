@@ -36,9 +36,9 @@
 *.color15:      #222f3e
 
 !! URxvt Appearance
-URxvt.font: xft:FantasqueSansMono-Regular:size=10
-URxvt.boldFont: xft:FantasqueSansMono-Bold:size=10
-URxvt.italicFont: xft:FantasqueSansMono-Italic:size=10
+URxvt.font: xft:FantasqueSansMono-Regular:size=11
+URxvt.boldFont: xft:FantasqueSansMono-Bold:size=11
+URxvt.italicFont: xft:FantasqueSansMono-Italic:size=11
 URxvt.letterSpace: 0
 URxvt.lineSpace: 0
 URxvt.internalBorder: 30

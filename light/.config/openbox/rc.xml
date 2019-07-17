@@ -58,7 +58,7 @@
     <animateIconify>yes</animateIconify>
     <font place="ActiveWindow">
       <name>Fantasque Sans Mono</name>
-      <size>8</size>
+      <size>11</size>
       <!-- font size in points -->
       <weight>Normal</weight>
       <!-- 'bold' or 'normal' -->
@@ -67,7 +67,7 @@
     </font>
     <font place="InactiveWindow">
       <name>Fantasque Sans Mono</name>
-      <size>8</size>
+      <size>11</size>
       <!-- font size in points -->
       <weight>Normal</weight>
       <!-- 'bold' or 'normal' -->
@@ -76,7 +76,7 @@
     </font>
     <font place="MenuHeader">
       <name>Fantasque Sans Mono</name>
-      <size>9</size>
+      <size>11</size>
       <!-- font size in points -->
       <weight>Normal</weight>
       <!-- 'bold' or 'normal' -->
@@ -85,7 +85,7 @@
     </font>
     <font place="MenuItem">
       <name>Fantasque Sans Mono</name>
-      <size>9</size>
+      <size>11</size>
       <!-- font size in points -->
       <weight>Normal</weight>
       <!-- 'bold' or 'normal' -->
@@ -94,7 +94,7 @@
     </font>
     <font place="ActiveOnScreenDisplay">
       <name>Fantasque Sans Mono</name>
-      <size>9</size>
+      <size>11</size>
       <!-- font size in points -->
       <weight>Normal</weight>
       <!-- 'bold' or 'normal' -->
@@ -103,7 +103,7 @@
     </font>
     <font place="InactiveOnScreenDisplay">
       <name>Fantasque Sans Mono</name>
-      <size>9</size>
+      <size>11</size>
       <!-- font size in points -->
       <weight>Normal</weight>
       <!-- 'bold' or 'normal' -->
@@ -324,12 +324,12 @@
     </keybind>
     <keybind key="W-t">
       <action name="Execute">
-	<command>urxvt</command>
+        <command>urxvt</command>
       </action>
     </keybind>
     <keybind key="W-f">
       <action name="Execute">
-	<command>firefox</command>
+        <command>firefox</command>
       </action>
     </keybind>
   </keyboard>
@@ -696,7 +696,6 @@
     <application class="*">
       <decor>no</decor>
     </application>
-
     <!--
   # this is an example with comments through out. use these to make your
   # own rules, but without the comments of course.

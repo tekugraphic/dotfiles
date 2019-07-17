@@ -1,2 +1,3 @@
 setxkbmap se &
 feh --bg-tile ~/.themes/light/wall.png &
+tint2 &
