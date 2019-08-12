@@ -1,0 +1,59 @@
+! special
+*.foreground:   #b6b6be
+*.background:   #19191f
+*.cursorColor:  #b6b6be
+
+! black
+*.color0:       #19191f
+*.color8:       #424253
+
+! red
+*.color1:       #809ca6
+*.color9:       #809ca6
+
+! green
+*.color2:       #53657d
+*.color10:      #53657d
+
+! yellow
+*.color3:       #b6b6be
+*.color11:      #b6b6be
+
+! blue
+*.color4:       #424253
+*.color12:      #424253
+
+! magenta
+*.color5:       #9eb2d9
+*.color13:      #9eb2d9
+
+! cyan
+*.color6:       #9eb2d9
+*.color14:      #9eb2d9
+
+! white
+*.color7:       #424253
+*.color15:      #b6b6be
+
+! xft configuration
+Xft.antialias:  true
+Xft.rgba:       rgb
+Xft.hinting:    true
+Xft.hintstyle:  hintmedium
+
+! urxvt appearance
+URxvt.font: xft:IosevkaTeku:size=11
+URxvt.boldFont: xft:IosevkaTeku-Bold:size=11
+URxvt.italicFont: xft:IosevkaTeku:size=11
+URxvt.letterSpace: 0
+URxvt.lineSpace: 0
+URxvt.internalBorder: 30
+URxvt.cursorBlink: true
+URxvt.cursorUnderline: false
+URxvt.saveline: 2048
+URxvt.scrollBar: false
+URxvt.scrollBar_right: false
+URxvt.urgentOnBell: true
+URxvt.depth: 24
+URxvt.iso14755: false
+URxvt.geometry: 85x20

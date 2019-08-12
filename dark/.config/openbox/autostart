@@ -1,0 +1,3 @@
+setxkbmap se &
+feh --bg-center ~/Downloads/wallpaper.png &
+tint2 &
